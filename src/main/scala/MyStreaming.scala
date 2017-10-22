@@ -55,7 +55,8 @@ import org.apache.spark.streaming.kafka._
 
 object MyStreaming {
   def main(args: Array[String]) {
-    /*test2*/
+    /*test2
+    * */
     val sparkConf = new SparkConf().setAppName("MyStreaming").setMaster("local[2]") //.setMaster("yarn-client")
     println("aaaaaaaaaaaaaaaaaaaaaaaa")
     val ssc = new StreamingContext(sparkConf, Seconds(60))
