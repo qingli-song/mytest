@@ -1,17 +1,15 @@
 class NewScala {
 
-  /*this is my change*/
-  /*this is my change2*/
-  
-  /*edited on the page*/']
+  /* page
+  a
+  b
+  c
+  */
 
-
-  1
-
-  /*
+  /* ide
   1
   2
   3
-  * */
+  */
 
 }
